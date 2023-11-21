@@ -18,7 +18,8 @@ add the models in the admin interface using the code admin.py
 
 
 write the function based view to render the data from the models to the template in views.py
-![image](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-04-Django-Models/assets/145742556/7dff2295-02c4-4875-8695-9efb60d2067d)
+![WhatsApp Image 2023-11-21 at 15 10 23_e706b339](https://github.com/Kamal-Raj-A/ODD2023-WT-Ex-04-Django-Models/assets/145742556/b7b62c86-56c7-40c8-b10a-e5a3a51aba19)
+
 
 
 set up the url path for the templates using urls.py
